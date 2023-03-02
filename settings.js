@@ -24,7 +24,7 @@ global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
 global.owner = ['94761091578'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 𝙼𝙸𝙷𝙸𝚁𝚄𝙺  ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂 𝙼𝙸𝙷𝙸𝚁𝚄𝙺  ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -38,7 +38,7 @@ global.botnma =  '𝚀𝚄𝙴𝙴𝙽 𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂'
 //👇 Your name
 global.ownernma =  '𝐌𝐢𝐡𝐢𝐫𝐮𝐤 𝐃𝐢𝐥𝐬𝐡𝐚𝐧(𝐒𝐏𝐂𝐇𝐀𝐓𝐇𝐔)' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒' 
 //👇 Sticker Author Name
 global.author =  '_𝙼𝚒𝚑𝚒𝚛𝚞𝚔_' 
 //👇 Kick And Auto Delete Group link Senders
